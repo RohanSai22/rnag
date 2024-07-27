@@ -1,1 +1,1 @@
-# rnag
+# RNAG- Retrieval Non Augumented Generation
