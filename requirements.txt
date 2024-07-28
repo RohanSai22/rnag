@@ -1,0 +1,21 @@
+streamlit
+transformers
+torch
+langchain_community
+chromadb
+sentence-transformers
+google
+beautifulsoup4
+newspaper3k
+spacy
+requests
+streamlit_chat
+accelerate
+localtunnel
+datasets
+rouge_score
+ragas
+rouge-score
+evaluate
+nltk
+python -m spacy download en_core_web_sm -q
