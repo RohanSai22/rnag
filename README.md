@@ -1,8 +1,6 @@
 # RNAG- Retrieval Non Augumented Generation
 
 
-# Retrieval Non Augmented Generation (RNAG)
-
 ## Overview
 
 Retrieval Non Augmented Generation (RNAG) is an innovative approach in natural language processing that refrains from conventional data augmentation methods used in many generative models. Instead, RNAG focuses on directly answering queries based solely on internal data, thus eliminating the need for incorporating external information sources like retrieval-augmented generation techniques.
